@@ -1,4 +1,4 @@
-# Imaginex HUb Chrome Dino
+# Imaginex HUB Chrome Dino
 # How to use?
 - Open Tampermonkey
 - Press New Userscript
